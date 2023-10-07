@@ -1,5 +1,3 @@
-Here are the steps to create a README file explaining this library management system code:
-
 1. Introduction
 
 - Briefly explain that this is a simple library management system that allows librarians to manage books and members, and allows members to issue, return, and view books.
